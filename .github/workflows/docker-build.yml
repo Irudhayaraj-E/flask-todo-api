@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: irudhayaj/flask-todo-api:latest
+        tags: ${{ secrets.DOCKERHUB_USERNAME }}/flask-todo-api:latest
