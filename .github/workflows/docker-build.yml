@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: anto2223/flask-todo-api:latest
+        tags: irudhayaj/flask-todo-api:latest
